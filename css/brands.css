@@ -1,0 +1,95 @@
+
+/* Brand Button Base Styles
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+/* Only include brand-specific button styling here */
+.button,button {
+  color:var(--button-text,#000000);
+  background-color:var(--button-background,transparent);
+	border:var(--button-border,none);
+	transition:filter 0.2s ease,transform 0.2s ease;
+}
+
+/* Global Button Hover Effect
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.button:hover,button:hover {
+	filter:brightness(90%);
+}
+
+/* Button Icons
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.icon {
+	filter:var(--icon-filter,none);
+}
+
+/* Brand-Specific Styles
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+/* Facebook */
+.button-faceb {
+	--button-text:#FAFAFA;
+	--button-background: transparent;
+	--button-border:0.5px solid #FAFAFA;
+}
+.button-faceb:hover {
+	--button-text:#FAFAFA;
+	--button-background:#1877F2;
+	--button-border:0.5px solid #1877F2;
+}
+
+/* GitHub */
+.button-github {
+	--button-text:#FAFAFA;
+	--button-background:transparent;
+	--button-border:0.5px solid #FAFAFA;
+}
+.button-github:hover {
+	--button-text:#FAFAFA;
+	--button-background:#24292E;
+	--button-border:0.5px solid #24292E;
+}
+/* Instagram */
+.button-instagram {
+	--button-text:#FAFAFA;
+	--button-background:transparent;
+	--button-border: 0.5px solid #FAFAFA;
+}
+.button-instagram:hover {
+	--button-text:#FAFAFA;
+	--button-background:#E1306C;
+	--button-border: 0.5px solid #E1306C;
+}
+
+/* LinkedIn */
+.button-linked {
+	--button-text:#FAFAFA;
+	--button-background:transparent;
+	--button-border:0.5px solid #FAFAFA;
+}
+.button-linked:hover {
+	--button-text:#FAFAFA;
+	--button-background:#0A66C2;
+	--button-border:0.5px solid #0A66C2;
+}
+
+/* Telegram */
+.button-telegram {
+	--button-text:#FAFAFA;
+	--button-background: transparent;
+	--button-border:0.5px solid #FAFAFA;
+}
+.button-telegram:hover {
+	--button-text:#FAFAFA;
+	--button-background:#24A1DE;
+	--button-border:0.5px solid #3FAEE8;
+}
+/* Twitter */
+.button-x {
+	--button-text:#FAFAFA;
+	--button-background:transparent;
+	--button-border:0.5px solid #FAFAFA;
+}
+.button-x:hover {
+	--button-text:#FAFAFA;
+	--button-background:#1DA1F2;
+	--button-border:0.5px solid #1DA1F2;
+}
