@@ -1,1 +1,1 @@
-Project Link: [Socials](https://vigneshxshankar.github.io/socials/)
+Project Link:    [Socials](https://vs-socials.vercel.app/)
