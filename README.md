@@ -1,1 +1,1 @@
-# Project Link:    ## [Socials](https://vs-socials.vercel.app/)
+# Project Link:    [Socials](https://vs-socials.vercel.app/)
