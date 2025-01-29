@@ -71,17 +71,6 @@
 	--button-border:0.5px solid #0A66C2;
 }
 
-/* Telegram */
-.button-telegram {
-	--button-text:#FAFAFA;
-	--button-background: transparent;
-	--button-border:0.5px solid #FAFAFA;
-}
-.button-telegram:hover {
-	--button-text:#FAFAFA;
-	--button-background:#24A1DE;
-	--button-border:0.5px solid #3FAEE8;
-}
 /* Twitter */
 .button-x {
 	--button-text:#FAFAFA;
